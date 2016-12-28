@@ -335,3 +335,81 @@ muhahah
 </body>
 
 </html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> </title>
+	</head>
+	<body>
+		<p>Paragraful meu </p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lists</title>
+	</head>
+	<body>
+		<h1>List of my favorite things</h1>
+		<ol>
+			<li>Raindrops on roses</li>
+			<li>Whiskers on kittens</li>
+			<li>Bright copper kettles</li>
+			<li>Warm woolen mittens</li>
+		</ol>
+		<h2> "List of things i find just OK"</h2>
+		    <ol>
+		         <li> </li>
+		         <li> </li>
+		         <li> </li>
+		    
+		    
+		    </ol>
+		
+		
+		
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	    <h3> Most annoying celebrities</h3>
+	    
+	    <ol> 
+	    
+	       <li> Laura Pausini</li>
+	       <li> Amrmando Sanchez</li>
+	       <li>Horia Brenciu</li>
+	    
+	    	    
+	    </ol>
+	    
+	    <h2> Top three things I can do for Mother`s Day</h2>
+	    <ol> 
+	    
+	          <li> Sa-i zic la multi ani!</li>
+	          <li> Sal-i iau cadou </li>
+	          <li> Sa o pup</li>
+	    
+	    
+	    
+	    </ol>
+	    
+	</body>
+</html>
