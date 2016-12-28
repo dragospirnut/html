@@ -237,3 +237,101 @@ muhahah
 		
 	</body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body><h1>YEAH SANDWICHES</h1>
+	<img src="http://bit.ly/RhrMEn" />
+		<p>I like eggs.</p>
+		<p>And ham!</p>
+		<p>But mostly sandwiches.</p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body><h1>YEAH SANDWICHES</h1>
+	<img src="http://bit.ly/RhrMEn" />
+		<p>I like eggs.</p>
+		<p>And ham!</p>
+		<p>But mostly sandwiches.</p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html> 
+<head> 
+
+<title> titlul paginii </title>
+
+</head>
+<body> 
+<h1> Dragos </h1>
+
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html> 
+<head> 
+
+<title> titlul paginii </title>
+
+</head>
+<body> 
+<h1> Dragos </h1>
+<p> Imi place sa programez</p>
+<p>Imi place tenisul de masa </p>
+<p> Doamne ajuta sa iau examenul ca programator incepator</p>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html> 
+<head> 
+
+<title> titlul paginii </title>
+
+</head>
+<body> 
+<h1> Dragos </h1>
+<img src="http://www.giz.ro/wp-content/uploads/2011/04/modificare-poze-online-photo.jpg">
+
+<p> Imi place sa programez</p>
+<p>Imi place tenisul de masa </p>
+<p> Doamne ajuta sa iau examenul ca programator incepator</p>
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<html> 
+<head> 
+
+<title> titlul paginii </title>
+
+</head>
+<body> 
+<h1> Dragos </h1>
+
+
+<p> Imi place sa programez</p>
+<p>Imi place tenisul de masa </p>
+<p> Doamne ajuta sa iau examenul ca programator incepator</p>
+<a href="www.naricsa.ro"> <img src="http://www.giz.ro/wp-content/uploads/2011/04/modificare-poze-online-photo.jpg"/> </a>
+
+<a href="http://www.giz.ro/wp-content/uploads/2011/04/modificare-poze-online-photo.jpg"> Click aiici pentru poza cu pod</a>
+</body>
+
+</html>
