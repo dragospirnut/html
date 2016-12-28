@@ -1,2 +1,2 @@
-# html
-proiectele mele din html
+<!DOCTYPE html>
+	<strong>nou text </strong>
