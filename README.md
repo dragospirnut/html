@@ -512,3 +512,877 @@ muhahah
 			<p style = "color: red;font-size:10px">But the bear got hungry and ate the duck.</p>
 	</body>
 </html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Loving the font changes</title>
+	</head>
+	<body>
+		<h1 style="font-family: Arial">Big title</h1>
+		 <ol>
+		 	<li style="font-size:16px;font-family:Arial">This item is big Arial.</li>
+		 	<li style = "font-size:12px;font-family:Verdana">This item is medium Verdana.</li>
+		 	<li style="font-size:10px;font-family:Impact">This item is small Impact.</li>
+		 </ol>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Putting it all together</title>
+	</head>
+	<body>
+		<p style="font-size:20px;color:blue;font-family:Arial">A truly spectacular paragraph!</p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sexy background color!</title>
+	</head>
+	<body style="background-color: brown";>
+		<h3>Favorite Football Teams</h3>
+			<ol style="background-color: yellow";>
+				<li>The Hawthorn Football Club</li>	
+				<li>San Franscisco 49ers</li>
+				<li>Barcelona FC</li>
+			</ol>			
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sexy background color!</title>
+	</head>
+	<body>
+		<h3 style="text-align:center">Favorite Football Teams</h3>
+			<ol>
+				<li style="text-align:left">The Hawthorn Football Club</li>	
+				<li style="text-align:center">San Franscisco 49ers</li>
+				<li style="text-align:right">Barcelona FC</li>
+			</ol>			
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Viva La Revolution!</title>
+	</head>
+	<body>
+		<p>Do you hear the people <strong>sing</strong>?</p>
+		<p>No I don't. I'm <strong>too</strong> busy eating cake.</p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Some nice practice</title>
+	</head>
+	<body>
+		<p>Hey, don't say <em>that</em>!</p>
+		<p>I am <em>so</em> tired.</p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body></body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The Kingest of Kongs</title>
+	</head>
+	<body>
+		<img src="https://s3.amazonaws.com/codecademy-blog/assets/da840950.jpg" />
+		<p>I'm male, 89 years old, and am a giant, Empire State Building-climbing ape.</p>
+		<ul>
+			<li><p style="color:red">Interests</p>
+				<ul>
+					<li style="font-family:Futura">Bananas</li>
+					<li style="font-family:Futura">Climbing stuff</li>
+					<li style="font-family:Futura">HTML</li>
+				</ul>
+            </li>
+			<li><p style="color:red">Jobs</p>
+				<ol>
+					<li style="font-family:Futura">Giant ape</li>
+					<li style="font-family:Futura">Web developer</li>
+				</ol>
+            </li>
+			<li><p style="color:red">Where I Went to School</p>
+				<ol>
+					<li style="font-family:Futura">Diddy Kong Jr. High School</li>
+					<li style="font-family:Futura">Donkey Kong Sr. High School</li>
+					<li style="font-family:Futura">Harvard University (BA)</li>
+					<li style="font-size:18px; font-family:Futura">Yale University (JD) (Current)</li>
+				</ol>
+            </li>
+			<li><p style="color:red">Favorite Quotes</p>
+				<ul>
+					<li style="font-family:Futura">"If at first you don't succeed, climb a giant building."</li>
+					<li style="font-family:Futura">"A banana in the hand is worth two on the tree."</li>
+				</ul>
+            </li>
+		</ul>
+	</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Dragos</title>
+	</head>
+	<body>
+	
+	<img src="http://www.giz.ro/wp-content/uploads/2011/04/modificare-poze-online-photo.jpg"/>
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Dragos</title>
+	</head>
+	<body>
+	
+	<img src="http://www.giz.ro/wp-content/uploads/2011/04/modificare-poze-online-photo.jpg"/>
+	<p>32 de ani,barbat,Piatra Neamt </p>
+	</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Dragos</title>
+	</head>
+	<body>
+	
+	<img src="http://img.kudika.ro/comunitate/photos/4/4/0/1310441.jpg"/>
+	<p>32 de ani,barbat,Piatra Neamt </p>
+	
+	<ul>
+	    <li>Interests</li>
+	    <li>Jobs</li>
+	    <li>Favorite Quotes></li>
+	    <li>Where I`ve lived </li>
+	
+	</ul>
+	
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Dragos</title>
+	</head>
+	<body>
+	
+	<img src="http://img.kudika.ro/comunitate/photos/4/4/0/1310441.jpg"/>
+	<p>32 de ani,barbat,Piatra Neamt </p>
+	
+	<ul>
+	    <li>Interests</li>
+	    
+	    <ol> 
+	        <li>Tenis</li>
+	        <li>Programare</li>
+	        <li>Table</li>
+	    
+	    </ol>
+	    
+	    
+	    <li>Jobs</li>
+	    
+	    
+	    <ul>
+	        <li>Consultanta</li>
+	        <li>Inchirieri</li>
+	        <li>Programator</li>
+	    
+	    </ul>
+	    <li>Favorite Quotes></li>
+	    <li>Where I`ve lived </li>
+	
+	</ul>
+	
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Dragos</title>
+	</head>
+	<body>
+	
+	<img src="http://img.kudika.ro/comunitate/photos/4/4/0/1310441.jpg"/>
+	<p>32 de ani,barbat,Piatra Neamt </p>
+	
+	<ul>
+	    <li>Interests</li>
+	    
+	    <ol> 
+	        <li style="color: blue;">Tenis</li>
+	        <li style= "color: red;">Programare</li>
+	        <li>Table</li>
+	    
+	    </ol>
+	    
+	    
+	    <li>Jobs</li>
+	    
+	    
+	    <ul>
+	        <li style="font-family: Verdana;">Consultanta</li>
+	        <li style="font-family: Times New Roman;">Inchirieri</li>
+	        <li style="font-size: 15px;">Programator</li>
+	    
+	    </ul>
+	    <li style="font-size: 30px;">Favorite Quotes></li>
+	    <li>Where I`ve lived </li>
+	
+	</ul>
+	
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Dragos</title>
+	</head>
+	<body>
+	
+	<img src="http://img.kudika.ro/comunitate/photos/4/4/0/1310441.jpg"/>
+	<p>32 de ani,barbat,Piatra Neamt </p>
+	
+	<ul>
+	    <li><strong>Interests</strong></li>
+	    
+	    <ol> 
+	        <li style="color: blue;"><em>Tenis</em></li>
+	        <li style= "color: red;">Programare</li>
+	        <li>Table</li>
+	    
+	    </ol>
+	    
+	    
+	    <li><strong>Jobs</strong></li>
+	    
+	    
+	    <ul>
+	        <li style="font-family: Verdana;"><em>Consultanta</em></li>
+	        <li style="font-family: Times New Roman;">Inchirieri</li>
+	        <li style="font-size: 15px;">Programator</li>
+	    
+	    </ul>
+	    <li style="font-size: 30px;">Favorite Quotes></li>
+	    <li>Where I`ve lived </li>
+	
+	</ul>
+	
+	
+	</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Table Time</title>
+	</head>
+	<body>
+		<h1 style="font-family: Arial;"><img src="http://img.kudika.ro/comunitate/photos/4/4/0/1310441.jpg"/>>Tables Are Mega Sweet</h1>
+		<a href="www.google.com"> <img src="http://img.kudika.ro/comunitate/photos/4/4/0/1310441.jpg"/>
+		
+	</body>
+</html>
+
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
+    <body>
+        <table>
+        
+        </table>
+        
+        
+        
+    </body>
+
+</html>
+
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
+    <body>
+        
+        <table>
+            <tr></tr>
+            <!-- Add two more rows below this! -->
+            <tr> </tr>
+            <tr> </tr>
+            
+        </table>
+        
+    </body>
+
+</html>
+
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
+    <body>
+        
+        <table border="1px">
+            <tr>
+                <td>One</td>
+            </tr>
+            
+            <tr>
+                <td> Two</td>
+            </tr>
+            
+            <tr>
+                <td>Three</td>
+                
+            </tr>
+        </table>
+        
+    </body>
+
+</html>
+
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
+    <body>
+        
+        <table border="1px">
+            <tr>
+                <td>King Kong</td>
+                <td>1933</td>     
+            </tr>
+            
+            <tr>
+                <td>Dracula</td>
+                <td>1897</td>
+            </tr>
+            
+            <tr>
+                <td>Bride of Frankenstein</td>
+                <td>1935</td>
+            </tr>
+        </table>
+        
+    </body>
+
+</html>
+
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
+    <body>
+        <tbody>
+        <table border="1px">
+            <tbody>
+                <tr>
+                    <td>King Kong</td>
+                    <td>1933</td>     
+                </tr>
+                
+                <tr>
+                    <td>Dracula</td>
+                    <td>1897</td>
+                </tr>
+                
+                <tr>
+                    <td>Bride of Frankenstein</td>
+                    <td>1935</td>
+                </tr>
+            </tbody>
+        </table>
+      </tbody>  
+    </body>
+
+</html>
+
+
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
+    <body>
+        
+        <table border="1px">
+            <thead>
+            <tr> 
+            <th>Famous Monster</th>
+            <th>Birth Year</th>
+            
+            
+            </tr>
+                
+            </thead>
+            <tbody>
+                <tr>
+                    <td>King Kong</td>
+                    <td>1933</td>     
+                </tr>
+                
+                <tr>
+                    <td>Dracula</td>
+                    <td>1897</td>
+                </tr>
+                
+                <tr>
+                    <td>Bride of Frankenstein</td>
+                    <td>1935</td>
+                </tr>
+            </tbody>
+        </table>
+        
+    </body>
+
+</html>
+
+
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
+    <body>
+        
+        <table border="1px">
+            <thead>
+                <tr>
+                    <th colspan="2">Famous Monsters by Birth Year</th>
+                </tr>
+                <tr>
+                    <th>Famous Monster</th>
+                    <th>Birth Year</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>King Kong</td>
+                    <td>1933</td>     
+                </tr>
+                
+                <tr>
+                    <td>Dracula</td>
+                    <td>1897</td>
+                </tr>
+                
+                <tr>
+                    <td>Bride of Frankenstein</td>
+                    <td>1935</td>
+                </tr>
+            </tbody>
+        </table>
+        
+    </body>
+
+</html>
+
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
+    <body>
+        
+        <table style="border-collapse:collapse;">
+            <thead>
+                <tr>
+                    <th style="color: red";colspan="2">Famous Monsters by Birth Year</th>
+                </tr>
+                <tr style="border-bottom:1px solid black;">
+                    <th style="padding:5px;"><em>Famous Monster</em></th>
+                    <th style="padding:5px;border-left:1px solid black;"><em>Birth Year</em></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="padding:5px;">King Kong</td>
+                    <td style="padding:5px;border-left:1px solid black;">1933</td>     
+                </tr>
+                
+                <tr>
+                    <td style="padding:5px;">Dracula</td>
+                    <td style="padding:5px;border-left:1px solid black;">1897</td>
+                </tr>
+                
+                <tr>
+                    <td style="padding:5px;">Bride of Frankenstein</td>
+                    <td style="padding:5px;border-left:1px solid black;">1944</td>
+                </tr>
+            </tbody>
+        </table>
+        
+    </body>
+
+</html>
+
+<html>
+    <head>
+        <title>Table Time</title>
+    </head>
+    
+    <body>
+        
+        <table style="border-collapse:collapse;">
+            <thead>
+                <tr>
+                    <th style=color:red;colspan="2";>Famous Monsters by >Birth Year</th>
+                </tr>
+                <tr style="border-bottom:1px solid black;">
+                    <th style="padding:5px;"><em>Famous Monster</em></th>
+                    <th style="padding:5px;border-left:1px solid black;"><em>Birth Year</em></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="padding:5px;">King Kong</td>
+                    <td style="padding:5px;border-left:1px solid black;">1933</td>     
+                </tr>
+                
+                <tr>
+                    <td style="padding:5px;">Dracula</td>
+                    <td style="padding:5px;border-left:1px solid black;">1897</td>
+                </tr>
+                
+                <tr>
+                    <td style="padding:5px;">Bride of Frankenstein</td>
+                    <td style="padding:5px;border-left:1px solid black;">1944</td>
+                </tr>
+            </tbody>
+        </table>
+        
+    </body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body>
+		<div style="width:50px; height:50px; background-color:red"></div>
+		<div style="width:50px; height:50px; background-color:blue"></div>
+		<div style="width:50px; height:50px; background-color:green"></div>
+		<div style="background-color:yellow; width: 50px; height: 50px"></div>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body>
+		<div style="width:50px; height:50px; background-color:red"></div>
+		<div style="width:50px; height:50px; background-color:blue"></div>
+		<div style="width:50px; height:50px; background-color:green"></div>
+		<div style="width:50px; height:50px; background-color:yellow"></div>
+	<a href="www.google.co.uk">	<div style="width: 50px; height: 50px; background-color:black"> </div> </a>
+		
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<p>This text is black, except for the word <span style="color:red">red</span>!</p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body>
+		<p>My favorite font is <span style="font-family: Impact">Impact</span>!</p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ye Olde Fancye Booke</title>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	</head>
+	<body>
+		<h3>Ye Olde Storye</h3>
+		<p><span>A</span> long time ago there was an intrepid young student who wanted to learn CSS...</p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body></body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	        <tr></tr>
+	        <tr></tr>
+	        <tr></tr>
+	
+	
+	</table>
+	
+	
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	        <tr>
+	        <td> </td>
+	        <td> </td>
+	        <td> </td>
+	       
+	       </tr>
+	        
+	        <tr>
+	        <td> </td>
+	        <td> </td>
+	        <td> </td>
+	        
+	        </tr>
+	        
+	        <tr>
+	        <td> </td>
+	        <td> </td>
+	        <td> </td>
+	        
+	        </tr>
+	
+	
+	</table>
+	
+	
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	
+	<thead 
+	
+	
+	<th colspan="3";>Tabelul meu </th> </thead>
+	        <tr>
+	        <td> </td>
+	        <td> </td>
+	        <td> </td>
+	       
+	       </tr>
+	        
+	        <tr>
+	        <td> </td>
+	        <td> </td>
+	        <td> </td>
+	        
+	        </tr>
+	        
+	        <tr>
+	        <td> </td>
+	        <td> </td>
+	        <td> </td>
+	        
+	        </tr>
+	
+	
+	</table>
+	
+	
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	
+	<thead 
+	
+	
+	<th colspan="3";>Tabelul meu </th> </thead>
+	        <tr>
+	        <td> <img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></td>
+	        <td> <img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/> </td>
+	        <td> <img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></td>
+	       
+	       </tr>
+	        
+	        <tr>
+	        <td> <img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></td>
+	        <td><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/> </td>
+	        <td> <img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></td>
+	        
+	        </tr>
+	        
+	        <tr>
+	        <td> <img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></td>
+	        <td> <img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></td>
+	        <td> <img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></td>
+	        
+	        </tr>
+	
+	
+	</table>
+	
+	
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	
+	<thead 
+	
+	
+	<th colspan="3";>Tabelul meu </th> </thead>
+	        <tr>
+	        <td> <a href="WWW.codeacadeymy.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></td></a>
+	        <td> <a href="www.codeacadmy.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/> </a></td>
+	        <td> <a href="www.google.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	       
+	       </tr>
+	        
+	        <tr>
+	        <td> <a href="www.msn.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        <td><a href="www.bing.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a> </td>
+	        <td> <a href="www.outcast.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        
+	        </tr>
+	        
+	        <tr>
+	        <td> <a href="www.dolinex.ro"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        <td> <a href="www.dacia.ro"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        <td> <a href="www.kinorigo.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        
+	        </tr>
+	
+	
+	</table>
+	
+	
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	
+	<thead 
+	
+	
+	<th colspan="3";>Tabelul meu </th> </thead>
+	        <tr>
+	        <td> <a href="WWW.codeacadeymy.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></td></a>
+	        <td> <a href="www.codeacadmy.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/> </a></td>
+	        <td> <a href="www.google.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	       
+	       </tr>
+	        
+	        <tr>
+	        <td> <a href="www.msn.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        <td><a href="www.bing.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a> </td>
+	        <td> <a href="www.outcast.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        
+	        </tr>
+	        
+	        <tr>
+	        <td> <a href="www.dolinex.ro"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        <td> <a href="www.dacia.ro"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        <td> <a href="www.kinorigo.com"><img src="http://www.olteniteanul.ro/upload/2013/04/poze-interjudeteana-040.jpg"/></a></td>
+	        
+	        </tr>
+	
+	
+	</table>
+	
+	
+	
+	</body>
+</html>
