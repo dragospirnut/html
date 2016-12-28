@@ -413,3 +413,102 @@ muhahah
 	    
 	</body>
 </html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Unordered Lists</title>
+	</head>
+	<body>
+	<h1> Some random thoughts</h1>
+	<p>I will be making an unorder list! </p>
+	<ul> 
+	    <li>Sa ma duc la tenis </li>
+	    <li>Sa nu ma duc la tenis </li>
+	    <li> Sa ma duc la tenis</li>
+	    <li>Da! sa ma duc la tenis! </li>
+	
+	
+	
+	
+	</ul>
+	
+	
+	
+	
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Nested lists</title>
+	</head>
+	<body>
+		<ol>
+			<li>Dad's interests
+				<ul>
+					<li>football</li>
+					<li>knitting</li>
+				</ul>
+			</li>
+			<li>Mom's interests
+				<ul>
+					<li>hating football</li>
+					<li>skydiving</li>
+				</ul>
+			</li>
+		</ol>
+		 <ul> 
+		    <li> Favorite Boys</li>
+		    <ol> 
+		        <li>Pizetti</li> 
+		        <li>Dan</li>
+		        <li>Vlad</li>
+		    
+		    </ol>
+		    
+		    
+		    <li> Favorite Girls</li>
+		        <ol> 
+		            <li> Andreea</li>
+		            <li> Antonia</li>
+		        <li> Sofia</li>
+		        
+		        </ol>
+		
+		
+		
+		</ul>
+	</body>
+</html>
+
+<!--Make me into a comment.-->
+
+<p>But leave me visible to the user!</p>
+
+<!-- comment -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>First font size change</title>
+	</head>
+	<body>
+		<p style = "font-size: 10px"> Some text for you to make tiny! </p>
+		<p style = "font-size:20px"> Some text for you to make normal size!</p>
+		<p style = "font-size: 40px"> Some text for you to make super big!</p>
+	</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Changing the colors!</title>
+	</head>
+	<body>
+		<h1 style ="color: green;font-size:16px" >Big Heading</h1>
+			<p style = "color:violet">A giant bear and a little duck were friends.</p>
+			<p style = "color: red;font-size:10px">But the bear got hungry and ate the duck.</p>
+	</body>
+</html>
